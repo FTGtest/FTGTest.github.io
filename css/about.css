@@ -1,0 +1,41 @@
+.w3-tangerine {
+  font-family: "Tangerine", serif;
+  font-size: "w3-jumbo";
+}
+
+body, html {height: 105%}
+p {line-height: 2}
+.bgimg, .bgimg2 {
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.bgimg {background-image: url("../img/img0.png")}
+.bgimg2 {background-image: url("../img/img2.jpg")}
+.bgimg3 {background-image: url("../img/img1.jpg");}
+
+#bgimg2Text, #bgimg3Text {
+  color: rgb(255, 255, 255);
+}
+
+
+#Éva {
+  background-image: url("../img/ÉVA.png");
+  background-position: right;
+  background-size: 50%;
+  background-repeat: no-repeat;
+}
+
+.bgimg3 {
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+
+#navbar {
+  font-optical-sizing: initial;
+}
+
+#us, #mission, #about {
+  background-color: rgba(255, 226, 226);
+}
